@@ -1,0 +1,2 @@
+# nxlogsample
+fetching windows events
